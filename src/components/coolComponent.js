@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 const CoolComponent = props => {
   return (
     <div>
-      This is my cooooool component
+      This is my cooooool component <br />
       {props.text}
     </div>
   )
